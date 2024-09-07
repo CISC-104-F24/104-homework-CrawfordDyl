@@ -8,6 +8,15 @@ public class HelloWorld : MonoBehaviour
     void Start()
     {
         Debug.Log("Hello, world!");
+        Debug.LogWarning("This is working!");
+        Debug.LogError("And now you are done!!");
+
+        //Author: Dylan Crawford
+        /*
+         * I cant wait to get started again!! 
+         * Happy to be back!!
+         * WooHoo!!
+         */
     }
 
     // Update is called once per frame
